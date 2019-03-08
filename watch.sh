@@ -1,0 +1,1 @@
+nodemon --watch COVER.md --watch RESUME.md --exec "./render.sh"

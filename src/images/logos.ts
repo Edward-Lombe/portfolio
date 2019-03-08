@@ -1,0 +1,12 @@
+import node from './node-logo.png'
+import npm from './npm-logo.png'
+import angular from './angular-logo.svg'
+import react from './react-logo.svg'
+import css3 from './css3-logo.png'
+import git from './git-logo.png'
+import elm from './elm-logo.svg'
+import html5 from './html5-logo.svg'
+import js from './js-logo.svg'
+import webpack from './webpack-logo.svg'
+import ts from './ts-logo.png'
+export { node, npm, angular, react, css3, git, elm, html5, js, ts, webpack }
